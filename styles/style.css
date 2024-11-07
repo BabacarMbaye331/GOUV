@@ -1,0 +1,29 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+.btn-orange {
+    background-color: #fd7e14;
+}
+
+p {
+    font-weight: 700;
+}
+.align-item-center{
+    margin-top: 35px;
+    flex-direction: column;
+    line-height: 2;
+}
+.align-item-center p{
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+.align-item-center a{
+    width: 100px;
+    margin-left: 550px;
+    margin-bottom: 35px;
+}
+i{
+    font-size: 5rem;
+}
+.navbar-nav a{
+}
